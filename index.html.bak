@@ -101,9 +101,9 @@
       <span class="branding-bar">Gaming Server SSH</span>
     </a>
   
-    <a href="https://ops.spaldotech.co.uk/phpmyadmin" data-role="tile" class="bg-red">
+    <a href="" data-role="tile" class="bg-red">
       <img src="images/SpaldotechIcon.png" class="icon">
-      <span class="branding-bar">DBMS</span>
+      <span class="branding-bar">TBD</span>
     </a>
   
     <a href="" data-role="tile" class="bg-red">
